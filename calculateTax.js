@@ -9,6 +9,5 @@ function calculateTax(income, expenses) {
     
  
 }
-     
-console.log(calculateTax(6000,-1500))
+console.log(calculateTax(3000,4000))
 
